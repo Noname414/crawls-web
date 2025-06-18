@@ -185,6 +185,7 @@ body {
     0% {
         background-position: 1rem 0;
     }
+
     100% {
         background-position: 0 0;
     }
@@ -254,20 +255,20 @@ body {
     .container {
         padding: 0 15px;
     }
-    
+
     .card-body {
         padding: 1rem;
     }
-    
+
     .product-card .card-img-top {
         height: 150px;
     }
-    
+
     .btn-lg {
         padding: 0.75rem 1.5rem;
         font-size: 1rem;
     }
-    
+
     .table-responsive {
         font-size: 0.875rem;
     }
@@ -277,16 +278,16 @@ body {
     .navbar-brand {
         font-size: 1.25rem;
     }
-    
+
     .product-title {
         font-size: 0.875rem;
         height: 2.4rem;
     }
-    
+
     .product-price {
         font-size: 1.1rem;
     }
-    
+
     .btn {
         padding: 0.5rem 1rem;
         font-size: 0.875rem;
@@ -303,6 +304,7 @@ body {
         opacity: 0;
         transform: translateY(20px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
@@ -318,6 +320,7 @@ body {
         opacity: 0;
         transform: translateY(30px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
